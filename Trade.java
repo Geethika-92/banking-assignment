@@ -7,3 +7,4 @@ class Trade {
         this.volume = volume;
     }
 }
+Final submission
